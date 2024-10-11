@@ -79,10 +79,6 @@ I am always looking for opportunities to improve my skills and learn new things,
 <a href="https://expressjs.com/en/5x/api.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/> </a>
 <br>Express
     </td>
-    <td align="center" width="96">  
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> </a>
-<br>PostgreSQL
-    </td>
      <td align="center" width="96">  
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="postgresql" width="40" height="40"/> </a>
 <br>MySql
