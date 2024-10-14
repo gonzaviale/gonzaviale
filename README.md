@@ -13,7 +13,7 @@ Hello! I am Gonzalo Viale, a student of the Web Development Degree at the Nation
 <br>
 <br>
 <h2 align="center">✨ Stats</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzaviale&show_icons=true&locale=en" alt="gonzaviale" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gonzaviale&show_icons=true&locale=en&v=1.0.1" alt="gonzaviale" /></p>
 <br>
 <br>
 
