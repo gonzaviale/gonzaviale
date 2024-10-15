@@ -100,7 +100,7 @@ I am always looking for opportunities to improve my skills and learn new things,
 <br>
 <br>
 <h2 align="center">📓 Top languages usage</h2>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzaviale&show_icons=true&locale=en&layout=compact&v=1.0.1" alt="gonzaviale" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gonzaviale&show_icons=true&locale=en&layout=compact&v=1.0.2" alt="gonzaviale" /></p>
 <br>
 <br>
 
