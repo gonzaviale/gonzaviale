@@ -4,6 +4,8 @@
 
 Hello! I am Gonzalo Viale, a student of the Web Development Degree at the National University of La Matanza. I am a person with a great desire to learn and grow professionally, always willing to face new challenges and improve my skills.
 
+-   🔭 I’m currently working on [Picture Storm](https://github.com/gonzaviale/https://github.com/gonzaviale/picture-storm).
+
 -   🌱 I’m currently learning **English, Typescript and Tailwind**.
 
 -   👨‍💻 All of my projects are available at [repostories](https://github.com/gonzaviale?tab=repositories).
@@ -29,6 +31,8 @@ Hello! I am Gonzalo Viale, a student of the Web Development Degree at the Nation
 On my GitHub profile, you will find a variety of projects I have worked on, from small experiments to larger and more complete projects. Here are some examples:
 
 -   [Master Trivia](https://github.com/gonzaviale/master-trivia): My integrative project on Master Trivia is a web application that utilizes knowledge gained in front-end, back-end, and database development.
+
+-   [Picture Storm](https://github.com/gonzaviale/https://github.com/gonzaviale/picture-storm): It is a web application that allows users to create, manage and search for images, these can be local or external.
 
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
 
