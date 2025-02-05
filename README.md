@@ -47,62 +47,117 @@ I am always looking for opportunities to improve my skills and learn new things,
 <table align="center" >
   <tr>
     <td align="center" width="96"> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> </a>
     <br>Javascript
     </td>
     <td align="center" width="96"> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"/> </a>
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+ </a>
     <br>TypeScript
     </td>
     <td align="center" width="96"> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> </a>
-<br>HTML
+<a href="https://www.rust-lang.org/es" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> </a>
+<br>Rust
     </td>
     <td align="center" width="96"> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<br>CSS
+<a href="https://spring.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+ </a> 
+<br>Spring
     </td>
     <td align="center" width="96"> 
-<a href="https://www.php.net/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /> </a>
 <br>PHP
     </td>
     <td align="center" width="96"> 
-<a href="https://www.java.com/es/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Redux" width="40" height="40"/> </a>
+<a href="https://www.java.com/es/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> </a>
 <br>Java
     </td>
     <td align="center" width="96"> 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> </a> 
 <br>React
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Linux" width="40" height="40"/> </a>
+    <td align="center" width="96">  <a href="https://nodejs.dev/en/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+ </a>
 <br>NodeJs
     </td>
     <td align="center" width="96"> 
-<a href="https://expressjs.com/en/5x/api.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/> </a>
+<a href="https://expressjs.com/en/5x/api.html" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+ </a>
 <br>Express
     </td>
      <td align="center" width="96">  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+ </a>
 <br>MySql
     </td>
     <td align="center" width="96">  
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<br>Git
+<a href="https://www.microsoft.com/es-es/sql-server/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+ </a>
+<br>SQLServer
 </td>
     <td align="center" width="96"> 
-    <a href="https://getbootstrap.com" target="_blank" rel=" noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40 "/> </a>  
-    <br>Bootstrap
+    <a href="https://tailwindcss.com/" target="_blank" rel=" noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> </a>  
+    <br>Tailwind
     </td>
   <td align="center" width="96">
-  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-icon.svg" alt="Sequelize" width="40" height="40"/> </a> 
+  <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" />
+ </a> 
 <br>Sequelize
   </td>
       <td align="center" width="96">
-  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+ </a> 
 <br>MongoDB
   </td>
+    </tr>
+  <tr>
+    <td align="center" width="96">  
+        <a href="https://swagger.io/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+        </a>
+        <br>Swagger
+    </td>
+    <td align="center" width="96">  
+        <a href="https://junit.org/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" />
+        </a>
+        <br>JUnit
+    </td>
+    <td align="center" width="96">  
+        <a href="https://hibernate.org/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+        </a>
+        <br>Hibernate
+    </td>
+    <td align="center" width="96">  
+        <a href="https://mongoosejs.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+        </a>
+        <br>Mongoose
+    </td>
+    <td align="center" width="96">  
+        <a href="https://maven.apache.org/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
+        </a>
+        <br>Maven
+    </td>
+    <td align="center" width="96">  
+        <a href="https://www.apache.org/" target="_blank"> 
+           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
+        </a>
+        <br>Apache
+    </td>
+    <td align="center" width="96">  
+        <a href="https://git-scm.com/" target="_blank"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+        </a>
+        <br>Git
+    </td>
+</tr>
+
 </table>
 
 <br>
