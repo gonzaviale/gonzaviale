@@ -4,7 +4,7 @@
 
 Hello! I am Gonzalo Viale, a student of the Web Development Degree at the National University of La Matanza. I am a person with a great desire to learn and grow professionally, always willing to face new challenges and improve my skills.
 
--   🔭 I’m currently working on [Heroes](https://github.com/gonzaviale/https://github.com/gonzaviale/heroes).
+-   🔭 I’m currently working on [Heroes](https://github.com/gonzaviale/heroes).
 
 -   🌱 I’m currently learning **English, Rust and Docker**.
 
