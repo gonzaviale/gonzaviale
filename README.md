@@ -34,6 +34,8 @@ On my GitHub profile, you will find a variety of projects I have worked on, from
 
 -   [Picture Storm](https://github.com/gonzaviale/https://github.com/gonzaviale/picture-storm): It is a web application that allows users to create, manage and search for images, these can be local or external.
 
+-   [Heroes](https://github.com/gonzaviale/https://github.com/gonzaviale/heroes): It is an application made in Spring Boot in which pet owners can connect with each other to get blood donor pets.
+
 I am always looking for opportunities to improve my skills and learn new things, so I would love to receive feedback and suggestions on any projects you find on my profile.
 
 <br>
